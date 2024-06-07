@@ -10,5 +10,9 @@ Integrating a "New Folder" option into the 'Send to' menu would significantly im
 
 In conclusion, the enhancement of the 'Send to' menu with a "New Folder" option in Windows 10 and 11 addresses a gap in the existing functionality. This improvement not only simplifies the process of organizing files but also saves users time and effort. Implementing this feature through registry modifications and a script offers a practical solution that enhances the overall user experience in file management.
 
+#
+
+> Alex: *"This option should be included by default."*
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
